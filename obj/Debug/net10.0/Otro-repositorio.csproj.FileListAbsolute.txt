@@ -1,0 +1,15 @@
+/workspaces/Otro-repositorio/bin/Debug/net10.0/Otro-repositorio
+/workspaces/Otro-repositorio/bin/Debug/net10.0/Otro-repositorio.deps.json
+/workspaces/Otro-repositorio/bin/Debug/net10.0/Otro-repositorio.runtimeconfig.json
+/workspaces/Otro-repositorio/bin/Debug/net10.0/Otro-repositorio.dll
+/workspaces/Otro-repositorio/bin/Debug/net10.0/Otro-repositorio.pdb
+/workspaces/Otro-repositorio/obj/Debug/net10.0/Otro-repositorio.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Otro-repositorio/obj/Debug/net10.0/Otro-repositorio.AssemblyInfoInputs.cache
+/workspaces/Otro-repositorio/obj/Debug/net10.0/Otro-repositorio.AssemblyInfo.cs
+/workspaces/Otro-repositorio/obj/Debug/net10.0/Otro-repositorio.csproj.CoreCompileInputs.cache
+/workspaces/Otro-repositorio/obj/Debug/net10.0/Otro-repositorio.sourcelink.json
+/workspaces/Otro-repositorio/obj/Debug/net10.0/Otro-repositorio.dll
+/workspaces/Otro-repositorio/obj/Debug/net10.0/refint/Otro-repositorio.dll
+/workspaces/Otro-repositorio/obj/Debug/net10.0/Otro-repositorio.pdb
+/workspaces/Otro-repositorio/obj/Debug/net10.0/Otro-repositorio.genruntimeconfig.cache
+/workspaces/Otro-repositorio/obj/Debug/net10.0/ref/Otro-repositorio.dll
